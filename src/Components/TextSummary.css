@@ -1,0 +1,18 @@
+.contain {
+    background-color: #15213e;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 100%;
+    margin: 20px;
+    border-radius: 15px;
+    mix-blend-mode: difference;
+}
+
+.center1 {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    mix-blend-mode: difference;
+    /* background-color: #15213e; */
+}
