@@ -8,3 +8,6 @@ The Text Analyser App is a web application that analyzes the sentiment of the te
 1. Real-time Sentiment Analysis: As you type, the app analyzes the text and displays the sentiment.
 2. User-friendly Interface: Simple and intuitive UI for easy usage.
 3. Interactive Visuals: Graphical representation of sentiment data.
+
+## Demo
+
